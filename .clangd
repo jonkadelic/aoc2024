@@ -1,0 +1,4 @@
+CompileFlags:
+  Add: ["--std=gnu2x"]
+  Compiler: gcc
+  CompilationDatabase: builddir/

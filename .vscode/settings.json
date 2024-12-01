@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "puzzle.h": "c"
+    },
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "C_Cpp.default.compileCommands": "/home/jo/Projects/aoc2024/builddir/compile_commands.json"
+}
